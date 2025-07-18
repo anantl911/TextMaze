@@ -1,0 +1,19 @@
+.outputStyle:active{
+    
+}
+
+input::placeholder{
+    color: "white";
+}
+
+.outputStyle{
+    height: 300px;
+    width: 400px;
+    background-color: rgb(69, 65, 65);
+    padding-bottom: 260px;
+    padding-left: 10px;
+    cursor: default;
+    border: none;
+    outline: none;
+    user-select: none;
+}
