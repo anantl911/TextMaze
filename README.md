@@ -1,6 +1,6 @@
 # Text Maze
 
-> Text Maze - a simple text manipulating and translation project.
+> Text Maze - a simple text manipulation and translation project.
 
 
 # 📸 Demo
