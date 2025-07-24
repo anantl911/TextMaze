@@ -21,6 +21,7 @@
 > - Javascript
 
 > Framework/Libraries
+>  - Bootstrap
 >  - ReactJS
 >  - ExpressJS and NodeJS
 
